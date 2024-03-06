@@ -1,0 +1,11 @@
+D:\Visual\ClassLibrary7\bin\Debug\net8.0\ClassLibrary7.deps.json
+D:\Visual\ClassLibrary7\bin\Debug\net8.0\ClassLibrary7.dll
+D:\Visual\ClassLibrary7\bin\Debug\net8.0\ClassLibrary7.pdb
+D:\Visual\ClassLibrary7\obj\Debug\net8.0\ClassLibrary7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual\ClassLibrary7\obj\Debug\net8.0\ClassLibrary7.AssemblyInfoInputs.cache
+D:\Visual\ClassLibrary7\obj\Debug\net8.0\ClassLibrary7.AssemblyInfo.cs
+D:\Visual\ClassLibrary7\obj\Debug\net8.0\ClassLibrary7.csproj.CoreCompileInputs.cache
+D:\Visual\ClassLibrary7\obj\Debug\net8.0\ClassLibrary7.dll
+D:\Visual\ClassLibrary7\obj\Debug\net8.0\refint\ClassLibrary7.dll
+D:\Visual\ClassLibrary7\obj\Debug\net8.0\ClassLibrary7.pdb
+D:\Visual\ClassLibrary7\obj\Debug\net8.0\ref\ClassLibrary7.dll

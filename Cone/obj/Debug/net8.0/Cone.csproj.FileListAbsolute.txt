@@ -1,0 +1,11 @@
+D:\Visual\Cone\obj\Debug\net8.0\Cone.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual\Cone\obj\Debug\net8.0\Cone.AssemblyInfoInputs.cache
+D:\Visual\Cone\obj\Debug\net8.0\Cone.AssemblyInfo.cs
+D:\Visual\Cone\obj\Debug\net8.0\Cone.csproj.CoreCompileInputs.cache
+D:\Visual\Cone\bin\Debug\net8.0\Cone.deps.json
+D:\Visual\Cone\bin\Debug\net8.0\Cone.dll
+D:\Visual\Cone\bin\Debug\net8.0\Cone.pdb
+D:\Visual\Cone\obj\Debug\net8.0\Cone.dll
+D:\Visual\Cone\obj\Debug\net8.0\refint\Cone.dll
+D:\Visual\Cone\obj\Debug\net8.0\Cone.pdb
+D:\Visual\Cone\obj\Debug\net8.0\ref\Cone.dll
